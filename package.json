@@ -1,0 +1,17 @@
+{
+  "name": "jefftbyrd.com-reboot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.0.0-canary.171",
+    "react": "19.0.0-rc-5d19e1c8-20240923",
+    "react-dom": "19.0.0-rc-5d19e1c8-20240923",
+    "sass": "^1.83.0"
+  }
+}
